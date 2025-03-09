@@ -14,8 +14,8 @@ This project automates student attendance tracking using **Google Forms, Google 
 ## 🏗️ Project Structure
 ```
 📂 Student-Attendance-System/
- ├── 📂 src/                 # Google Apps Script files
- ├── 📂 docs/                # Documentation & guides
+ ├── 📂 src/                # Google Apps Script files
+ ├── 📂 docs/               # Documentation & guides
  ├── README.md              # Project overview & setup instructions
  ├── .gitignore             # Ignore unnecessary files
 ```
