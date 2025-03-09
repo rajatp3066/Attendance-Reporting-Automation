@@ -10,15 +10,6 @@ This project automates student attendance tracking using **Google Forms, Google 
 - **Email Notifications** for low attendance alerts
 - **Weekly Reports** sent automatically to students & parents
 
-## 🏗️ Project Structure
-```
-📂 Student-Attendance-System/
- ├── 📂 src/                # Google Apps Script files
- ├── 📂 docs/               # Documentation & guides
- ├── README.md              # Project overview & setup instructions
- ├── .gitignore             # Ignore unnecessary files
-```
-
 ## 🚀 Setup & Usage
 ### 1️⃣ Google Form Setup
 1. Create a **Google Form** with the necessary attendance fields.
@@ -54,5 +45,5 @@ This project automates student attendance tracking using **Google Forms, Google 
 - Integration with **Google Classroom**.
 - Enhanced **data visualization** with Google Data Studio.
 
-📧 **Contributors:** [Rajatkumar Patel]  
+📧 **Contributors:** Rajatkumar Patel  
 💼 **License:** MIT
