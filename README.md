@@ -1,5 +1,4 @@
 # Attendance-Reporting-Automation
-# Student Attendance Management System
 
 ## 📌 Project Overview
 This project automates student attendance tracking using **Google Forms, Google Sheets, and Google Apps Script**. It streamlines data collection, generates reports, and automates email notifications for students and administrators.
